@@ -12843,8 +12843,8 @@ phone_setting.idle_dsskey_and_title.transparency=
 ##                                     Key Layout                                    ##          
 #######################################################################################
 programablekey.3.type = 13
-programablekey.3.value =  
-programablekey.3.label =  
+programablekey.3.value = 7790
+programablekey.3.label = PD Dispatch
 programablekey.4.type = 13
 programablekey.4.value = 6500
 programablekey.4.label = Tech
